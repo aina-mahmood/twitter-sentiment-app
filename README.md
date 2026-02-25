@@ -21,11 +21,6 @@ This project classifies tweets as **positive, negative, or neutral** using a tra
 ## Dataset
 Airline Twitter Sentiment dataset containing real customer tweets.
 
-## Run Locally
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-
 ## 🚀 Project Evolution (Real-Time → Demo Deployment)
 
 This project was originally designed as a **real-time Twitter sentiment analysis system**.
@@ -59,3 +54,10 @@ The full academic implementation, including:
 can be found here:
 
 👉 [Twitter Sentiment Analysis Report](docs/Twitter_Sentiment_Report.docx)
+
+
+## Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
