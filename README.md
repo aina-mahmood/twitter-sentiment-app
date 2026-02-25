@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis ✈️📊
+# Twitter Sentiment Analysis 📊
 
 A machine learning project that analyzes sentiment in airline-related tweets using NLP.
 
